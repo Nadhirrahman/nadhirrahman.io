@@ -45,21 +45,21 @@ $(document).ready(function(){
         strings: ["Nadir"],
         typeSpeed: 500,
         backSpeed: 60,
-        loop: true
+        loop: false
     });
 
     var typed = new Typed(".typing-3", {
         strings: ["Jakarta, 2001"],
         typeSpeed: 200,
         backSpeed: 60,
-        loop: true
+        loop: false
     });
 
     var typed = new Typed(".typing-4", {
         strings: ["BINUS University"],
         typeSpeed: 200,
         backSpeed: 60,
-        loop: true
+        loop: false
     });
 
     // owl carousel script
